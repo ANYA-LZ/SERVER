@@ -1,0 +1,17 @@
+# ANYA Bot V5.0.0 — Requirements
+# Core dependencies for the credit card checker bot
+
+# Telegram Bot API
+pyTelegramBotAPI>=4.14.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Additional
+urllib3>=2.0.7
+
+# Console Colors
+colorama>=0.4.6
+
+# Build (optional — for creating .exe)
+# pyinstaller>=6.0.0
