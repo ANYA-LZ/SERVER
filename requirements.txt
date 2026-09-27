@@ -1,8 +1,0 @@
-requests
-flask
-lxml
-faker
-cloudscraper
-cryptography
-urllib3
-gunicorn
